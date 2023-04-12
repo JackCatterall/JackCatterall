@@ -10,10 +10,6 @@ About me:
 - 🌱 Throughout both of my degrees I have been exposed to; 
 Python & various libraries, MATLAB, Scala, AI concepts, Cyber Security, data manipulation & visualisation, Docker, AWS, NLP, DSS.
 
-- 📫 How to reach me ---- www.linkedin.com/in/Jack-Catterall![image](https://user-images.githubusercontent.com/119299557/204261444-6b10ae84-6b87-46f9-88f6-a58ab8875ac9.png)
+- 📫 How to reach me ---- www.linkedin.com/in/Jack-Catterall
 
 
-<!---
-JackCatterall/JackCatterall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
